@@ -2327,9 +2327,6 @@ pre code {
     .col-sm-5 {
         width: 41.66666667%
     }
-    .col-sm-4 {
-        width: 33.33333333%
-    }
     .col-sm-3 {
         width: 25%
     }
@@ -5238,11 +5235,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
     margin-top: 4px
 }
 
-@media (min-width:768px) {
-    .navbar-toggle {
-        display: none
-    }
-}
+
 
 .navbar-nav {
     margin: 7.5px -15px
