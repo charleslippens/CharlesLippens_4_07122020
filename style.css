@@ -431,6 +431,13 @@ nav .navbar-header {
     padding: 0 30px;
 }
 
+#realisations p {
+    width: 100%;
+    text-align: center;
+    font-size: 1.5em;
+    padding: 0 30px;
+}
+
 footer .col-sm-12 h2 {
     text-align: center;
     font-size: 0.9em;
@@ -1079,8 +1086,7 @@ h4 {
         position: relative;
     }
     .bloc {
-        padding-left: constant(safe-area-inset-left);
-        padding-right: constant(safe-area-inset-right);
+
     }
     .bloc-group,
     .bloc-group .bloc {
@@ -1090,8 +1096,7 @@ h4 {
     .bloc-fill-screen .fill-bloc-top-edge,
     .bloc-fill-screen .fill-bloc-bottom-edge {
         padding: 0 20px;
-        padding-left: constant(safe-area-inset-left);
-        padding-right: constant(safe-area-inset-right);
+
     }
 }
 
